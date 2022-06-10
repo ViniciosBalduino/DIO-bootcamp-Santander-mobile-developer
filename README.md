@@ -1,5 +1,7 @@
 # Desafio de projeto DIO
-1º Desafio Bootcamp Santander Mobile Developer
+Repositório criado com a intenção de organizar os estudos/anotações durante o bootcamp
 
-## links uties
-[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
+## Tópicos do curso
+ - Introdução à progamação a o pensamento computacional
+ - Introdução ao Git e ao GitHub
+
